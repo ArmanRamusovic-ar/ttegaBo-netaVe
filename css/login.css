@@ -1,0 +1,57 @@
+.content {
+    background: #fff2ea;
+    padding:1rem;
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+    width: auto;
+  }
+
+.home-link {
+    
+    font-family:'Times New Roman';
+    font-size: xx-large;
+    position: absolute;
+    margin-left: 100px;
+    top: 5px;
+ width:fit-content
+  
+ }
+ 
+.form-control2::placeholder  { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: black !important;
+    font-size: 15px;
+    
+    opacity: 1; /* Firefox */
+}
+
+.form-control2:-ms-input-placeholder { /* Internet Explorer 10-11 */
+
+    color: black !important;
+    font-size: 150px;
+    opacity: 1; /* Firefox */
+}
+
+.form-control2::-ms-input-placeholder { /* Microsoft Edge */
+
+    color: black !important;
+    font-size: 150px;
+    opacity: 1; /* Firefox */
+}
+  
+  .child {
+    width: 200px;
+    padding: 1rem;
+  
+    color:black;
+    margin: 0 auto;
+    text-align: center;
+    
+  }
+
+  .next-button
+  {
+    margin-bottom: 50px;
+    
+  }
+
